@@ -6,7 +6,7 @@
   Md. Tanvir rahman Fahim
 </h1>
 
-<table align="left">
+<table align="center">
   <th colspan="2">B.Sc in CSE at Daffodil International University</th>  
   <tr>
     <td align="center">Currently I'm a 1st year student</td>
@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-<table align="right">
+<table align="center">
  <th colspan="2">You can find me at</th>
  <tr>
    <td align="center"><img src="https://media.tenor.com/XmhnAMSWGTUAAAAi/araslot-facebook.gif" width="45"/></td>
