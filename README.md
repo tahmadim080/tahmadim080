@@ -94,7 +94,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-tahmadim080-2d353b?style=for-the-badge&logo=github&logoColor=a7c080)](https://github.com/tahmadim080/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tahmadim078-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092&labelColor=2d353b)](https://www.linkedin.com/in/tahmadim078/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tahmadim078-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmadim078/)
 [![Facebook](https://img.shields.io/badge/Facebook-tahmadim064-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3)](https://www.facebook.com/tahmadim064/)
 [![X](https://img.shields.io/badge/X-tahmadim003-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa)](https://x.com/tahmadim003)
 [![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f)](https://codeforces.com/profile/tahmadim8703)
