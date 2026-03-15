@@ -14,24 +14,7 @@
 ## 🌿 whoami
 
 <div align="center">
-
-```yaml
-#  ❯ fahim@pop-os  ~  $  cat about.yaml
-# ------------------------------------------------
-
-Name      : Md. Tanvir Rahman Fahim
-Location  : Bangladesh 🇧🇩
-Study     : BSc CSE @ Daffodil International University
-OS        : Pop!_OS 24.04 LTS + COSMIC DE  🚀
-Shell     : fish 🐟
-Linux     : Since 2019 · 80+ distros explored
-Editor    : nvim
-Loves     : Open Source Software ❤️
-Playing   : Genshin Impact ⚔️
-Learning  : C++ for Competitive Programming 🏆
-Status    : Online · Always building 🌱
-```
-
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" alt="whoami terminal" width="680"/>
 </div>
 
 ---
@@ -60,19 +43,7 @@ Status    : Online · Always building 🌱
 ## 📊 Skill Levels
 
 <div align="center">
-
-```
-  ❯ fahim@pop-os ~ $ skill --show-all
-  ┌─────────────────────────────────────────────────────┐
-  │ 🐧 Linux          ████████████████████  96%  Expert │
-  │ 🤖 AI Knowledge   ███████████████████░  92%  Master │
-  │ 🌐 HTML & CSS     ██████████████████░░  90%  Advanc │
-  │ ⚙️  C Programming  ████████████████░░░░  80%  Profic │
-  │ 🐍 Python         ███████████████░░░░░  78%  Profic │
-  │ 🏆 C++ (CP)       ████████░░░░░░░░░░░░  42%  Learn  │
-  └─────────────────────────────────────────────────────┘
-```
-
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" alt="skill levels" width="680"/>
 </div>
 
 ---
@@ -107,15 +78,13 @@ Status    : Online · Always building 🌱
 ## 🐧 Linux Journey
 
 ```
-  ❯ fahim@pop-os ~ $ history | grep linux-journey
-
   2019 ──────────────────────────────────────────► Present
    │
    ├── 🟢  Started with Ubuntu · "this is so cool"
    ├── 🔵  Discovered Arch · entered btw-i-use-arch era
    ├── 🟣  Distro hopped through 80+ distributions
    ├── 🟡  Deep dives: Gentoo · NixOS · Void · LFS
-   ├── 🔴  Tried Tiny Core → Bedrock → everything in between
+   ├── 🔴  Tiny Core → Bedrock → everything in between
    └── 🚀  Now: Pop!_OS 24.04 + COSMIC DE + fish
                 └── Stability + Beauty + OSS = ❤️
 ```
@@ -141,15 +110,12 @@ Status    : Online · Always building 🌱
 
 ```cpp
 // ❯ fahim@pop-os ~ $ cat cp_status.cpp
-
 #include <bits/stdc++.h>
 using namespace std;
-
 int main() {
     string handle   = "tahmadim8703";       // Codeforces
     string language = "C++ (learning)";
     string goal     = "Specialist → Expert 🎯";
-
     map<string, int> progress = {
         {"Arrays",  75},   // ███████░░░
         {"Sorting", 70},   // ███████░░░
@@ -157,7 +123,6 @@ int main() {
         {"Graphs",  35},   // ███░░░░░░░
         {"DP",      28},   // ██░░░░░░░░
     };
-
     cout << "Grinding every day. Keep going! 💪" << endl;
     return 0;
 }
@@ -174,8 +139,6 @@ int main() {
 ## 🕊️ Open Source Lover
 
 ```
-  ❯ fahim@pop-os ~ $ cat /etc/philosophy
-
   "Free as in freedom."  — Richard Stallman
 
   I believe in the power of open source.
@@ -201,14 +164,7 @@ int main() {
 ---
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer&animation=twinkling"/>
 
-```
-  ❯ fahim@pop-os ~ $ echo "Thanks for visiting! Stay curious 🌿"
-    Thanks for visiting! Stay curious 🌿
-```
-
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20in%20Bangladesh-a7c080?style=for-the-badge&labelColor=2d353b)
-
 </div>
