@@ -14,7 +14,7 @@
 ## 🌿 whoami
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" alt="whoami terminal" width="680"/>
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" width="680"/>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ## 📊 Skill Levels
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" alt="skill levels" width="680"/>
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" width="680"/>
 </div>
 
 ---
@@ -115,15 +115,15 @@ using namespace std;
 int main() {
     string handle   = "tahmadim8703";       // Codeforces
     string language = "C++ (learning)";
-    string goal     = "Specialist → Expert 🎯";
+    string goal     = "Specialist -> Expert";
     map<string, int> progress = {
-        {"Arrays",  75},   // ███████░░░
-        {"Sorting", 70},   // ███████░░░
-        {"Greedy",  55},   // █████░░░░░
-        {"Graphs",  35},   // ███░░░░░░░
-        {"DP",      28},   // ██░░░░░░░░
+        {"Arrays",  75},   // #######...
+        {"Sorting", 70},   // #######...
+        {"Greedy",  55},   // #####.....
+        {"Graphs",  35},   // ###.......
+        {"DP",      28},   // ##........
     };
-    cout << "Grinding every day. Keep going! 💪" << endl;
+    cout << "Grinding every day. Keep going!" << endl;
     return 0;
 }
 ```
@@ -143,7 +143,7 @@ int main() {
 
   I believe in the power of open source.
   Everything I learn, I try to share back.
-  The best software is built together. 🌍
+  The best software is built together.
 ```
 
 ---
@@ -166,5 +166,5 @@ int main() {
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer&animation=twinkling"/>
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20in%20Bangladesh-a7c080?style=for-the-badge&labelColor=2d353b)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-love%20in%20Bangladesh-a7c080?style=for-the-badge&labelColor=2d353b)
 </div>
