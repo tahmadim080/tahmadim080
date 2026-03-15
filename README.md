@@ -1,6 +1,6 @@
 <div align="center">
 
-[![glitch](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=100&pause=2200&color=A7C080&center=true&vCenter=true&multiline=false&width=800&height=80&lines=M%25+T%40nv%21r+R%23hm%40n+F%40h1m;Md.+Tanvir+Rahman+Fahim;C%24E+%24tud3nt+%40+D1U;CSE+Student+%40+DIU;L1nux+N%23rd%21;Linux+Nerd;4I+M%40st3r%21;AI+Master;0p3n+S0urc3+L0v3r;Open+Source+Lover;P0p%21_%24+%2B+C0SM1C+D3;Pop%21_OS+%2B+COSMIC+DE)](https://github.com/tahmadim080)
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/glitch.svg" width="800" alt="header"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tahmadim080&style=for-the-badge&color=a7c080&labelColor=2d353b&label=PROFILE+VIEWS)
 &nbsp;
