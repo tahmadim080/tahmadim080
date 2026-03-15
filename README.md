@@ -11,10 +11,11 @@
 
 ---
 
-## 🌿 whoami
+## 🌿 Md. Tanvir Rahman Fahim
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" width="680"/>
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" width="340" align="top"/>
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" width="330" align="top"/>
 </div>
 
 ---
@@ -32,34 +33,9 @@
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-2d353b?style=for-the-badge&logo=popos&logoColor=83c092)
 ![Neovim](https://img.shields.io/badge/NeoVim-2d353b?style=for-the-badge&logo=neovim&logoColor=a7c080)
 ![Git](https://img.shields.io/badge/Git-2d353b?style=for-the-badge&logo=git&logoColor=e67e80)
-![Fish Shell](https://img.shields.io/badge/Fish-2d353b?style=for-the-badge&logo=gnu-bash&logoColor=7fbbb3)
+![Fish](https://img.shields.io/badge/Fish-2d353b?style=for-the-badge&logo=gnu-bash&logoColor=7fbbb3)
 ![AI](https://img.shields.io/badge/AI-2d353b?style=for-the-badge&logo=openai&logoColor=a7c080)
-![Open Source](https://img.shields.io/badge/OSS-2d353b?style=for-the-badge&logo=opensourceinitiative&logoColor=83c092)
-
-</div>
-
----
-
-## 📊 Skill Levels
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" width="680"/>
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=transparent&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=transparent&hide_border=true&title_color=a7c080&text_color=d3c6aa&bg_color=2d353b"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tahmadim080&theme=transparent&hide_border=true&background=2d353b&ring=a7c080&fire=e69875&currStreakLabel=a7c080&sideLabels=83c092&dates=7a8478&stroke=475258&currStreakNum=d3c6aa&sideNums=d3c6aa)](https://git.io/streak-stats)
+![OSS](https://img.shields.io/badge/OSS-2d353b?style=for-the-badge&logo=opensourceinitiative&logoColor=83c092)
 
 </div>
 
@@ -75,22 +51,47 @@
 
 ---
 
+## 📈 Stats & Streak
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=transparent&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=tahmadim080&theme=transparent&hide_border=true&background=2d353b&ring=a7c080&fire=e69875&currStreakLabel=a7c080&sideLabels=83c092&dates=7a8478&stroke=475258&currStreakNum=d3c6aa&sideNums=d3c6aa"/>
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3)](https://www.facebook.com/tahmadim064/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092)](https://www.linkedin.com/in/tahmadim078/)
+[![X](https://img.shields.io/badge/X-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa)](https://x.com/tahmadim003)
+[![GitHub](https://img.shields.io/badge/GitHub-2d353b?style=for-the-badge&logo=github&logoColor=a7c080)](https://github.com/tahmadim080/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f)](https://codeforces.com/profile/tahmadim8703)
+[![Gmail](https://img.shields.io/badge/Gmail-2d353b?style=for-the-badge&logo=gmail&logoColor=e67e80)](mailto:tahmadim001@gmail.com)
+
+</div>
+
+---
+
 ## 🐧 Linux Journey
 
 ```
   2019 ──────────────────────────────────────────► Present
    │
-   ├── 🟢  Started with Ubuntu · "this is so cool"
-   ├── 🔵  Discovered Arch · entered btw-i-use-arch era
+   ├── 🟢  Ubuntu · "this is so cool"
+   ├── 🔵  Arch · entered btw-i-use-arch era
    ├── 🟣  Distro hopped through 80+ distributions
-   ├── 🟡  Deep dives: Gentoo · NixOS · Void · LFS
+   ├── 🟡  Gentoo · NixOS · Void · LFS · deep dives
    ├── 🔴  Tiny Core → Bedrock → everything in between
-   └── 🚀  Now: Pop!_OS 24.04 + COSMIC DE + fish
-                └── Stability + Beauty + OSS = ❤️
+   └── 🚀  Pop!_OS 24.04 + COSMIC DE + fish = home ❤️
 ```
 
 <details>
-<summary>📦 <b>80+ distros I've used — click to expand</b></summary>
+<summary>📦 <b>80+ distros — click to expand</b></summary>
 <br>
 
 `Arch` `Ubuntu` `Debian` `Fedora` `NixOS` `Gentoo` `Void Linux` `OpenSUSE` `Alpine`
@@ -113,18 +114,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-    string handle   = "tahmadim8703";       // Codeforces
-    string language = "C++ (learning)";
+    string handle   = "tahmadim8703";    // Codeforces
     string goal     = "Specialist -> Expert";
     map<string, int> progress = {
-        {"Arrays",  75},   // #######...
-        {"Sorting", 70},   // #######...
-        {"Greedy",  55},   // #####.....
-        {"Graphs",  35},   // ###.......
-        {"DP",      28},   // ##........
+        {"Arrays",  75}, {"Sorting", 70},
+        {"Greedy",  55}, {"Graphs",  35}, {"DP", 28},
     };
-    cout << "Grinding every day. Keep going!" << endl;
-    return 0;
+    cout << "Grinding every day. Keep going! 💪" << endl;
 }
 ```
 
@@ -136,35 +132,8 @@ int main() {
 
 ---
 
-## 🕊️ Open Source Lover
-
-```
-  "Free as in freedom."  — Richard Stallman
-
-  I believe in the power of open source.
-  Everything I learn, I try to share back.
-  The best software is built together.
-```
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3)](https://www.facebook.com/tahmadim064/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092)](https://www.linkedin.com/in/tahmadim078/)
-[![X](https://img.shields.io/badge/X-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa)](https://x.com/tahmadim003)
-[![GitHub](https://img.shields.io/badge/GitHub-2d353b?style=for-the-badge&logo=github&logoColor=a7c080)](https://github.com/tahmadim080/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f)](https://codeforces.com/profile/tahmadim8703)
-[![Gmail](https://img.shields.io/badge/Gmail-2d353b?style=for-the-badge&logo=gmail&logoColor=e67e80)](mailto:tahmadim001@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer&animation=twinkling"/>
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-love%20in%20Bangladesh-a7c080?style=for-the-badge&labelColor=2d353b)
+![Made with love](https://img.shields.io/badge/Made%20with-love%20in%20Bangladesh-a7c080?style=for-the-badge&labelColor=2d353b)
 </div>
