@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=180&section=header&text=Md.%20Tanvir%20Rahman%20Fahim&fontSize=42&fontColor=d3c6aa&animation=twinkling&fontAlignY=32&desc=CSE%20Student%20%7C%20Linux%20Nerd%20%7C%20AI%20Master%20%7C%20OSS%20Lover&descAlignY=55&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=A7C080&center=true&vCenter=true&width=620&lines=Tech+Enthusiast+%F0%9F%9A%80;AI+Master+%F0%9F%A4%96;Linux+Power+User+%F0%9F%90%A7;Open+Source+Forever+%F0%9F%95%8A%EF%B8%8F;Competitive+Programmer+%F0%9F%8F%86;Pop!_OS+%2B+COSMIC+DE+%2B+fish+%F0%9F%90%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=2000&pause=500&color=A7C080&center=true&vCenter=true&width=700&height=80&lines=Md.+Tanvir+Rahman+Fahim;CSE+Student+%40+DIU;Linux+Nerd+%F0%9F%90%A7;AI+Master+%F0%9F%A4%96;Open+Source+Lover+%F0%9F%95%8A%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tahmadim080&style=for-the-badge&color=a7c080&labelColor=2d353b&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/tahmadim080?style=for-the-badge&color=83c092&labelColor=2d353b&label=FOLLOWERS)](https://github.com/tahmadim080)
@@ -11,12 +9,12 @@
 
 ---
 
-## 🌿 Md. Tanvir Rahman Fahim
+## 🌿 whoami &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📊 Skill Levels
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" width="340" align="top"/>
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" width="330" align="top"/>
-</div>
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" width="495" align="left"/>
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" width="495" align="right"/>
+
+<br clear="both"/>
 
 ---
 
@@ -51,12 +49,12 @@
 
 ---
 
-## 📈 Stats & Streak
+## 📈 Stats &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔥 Streak
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=transparent&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b"/>
-<img height="170em" src="https://streak-stats.demolab.com?user=tahmadim080&theme=transparent&hide_border=true&background=2d353b&ring=a7c080&fire=e69875&currStreakLabel=a7c080&sideLabels=83c092&dates=7a8478&stroke=475258&currStreakNum=d3c6aa&sideNums=d3c6aa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=transparent&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=tahmadim080&theme=transparent&hide_border=true&background=2d353b&ring=a7c080&fire=e69875&currStreakLabel=a7c080&sideLabels=83c092&dates=7a8478&stroke=475258&currStreakNum=d3c6aa&sideNums=d3c6aa"/>
 
 </div>
 
@@ -66,12 +64,12 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3)](https://www.facebook.com/tahmadim064/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092)](https://www.linkedin.com/in/tahmadim078/)
-[![X](https://img.shields.io/badge/X-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa)](https://x.com/tahmadim003)
-[![GitHub](https://img.shields.io/badge/GitHub-2d353b?style=for-the-badge&logo=github&logoColor=a7c080)](https://github.com/tahmadim080/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f)](https://codeforces.com/profile/tahmadim8703)
-[![Gmail](https://img.shields.io/badge/Gmail-2d353b?style=for-the-badge&logo=gmail&logoColor=e67e80)](mailto:tahmadim001@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%40tahmadim064-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3)](https://www.facebook.com/tahmadim064/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40tahmadim078-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092)](https://www.linkedin.com/in/tahmadim078/)
+[![X](https://img.shields.io/badge/X-%40tahmadim003-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa)](https://x.com/tahmadim003)
+[![GitHub](https://img.shields.io/badge/GitHub-%40tahmadim080-2d353b?style=for-the-badge&logo=github&logoColor=a7c080)](https://github.com/tahmadim080/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f)](https://codeforces.com/profile/tahmadim8703)
+[![Gmail](https://img.shields.io/badge/Gmail-tahmadim001%40gmail.com-2d353b?style=for-the-badge&logo=gmail&logoColor=e67e80)](mailto:tahmadim001@gmail.com)
 
 </div>
 
@@ -128,12 +126,4 @@ int main() {
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-2d353b?style=for-the-badge&logo=codeforces&logoColor=7fbbb3)](https://codeforces.com/profile/tahmadim8703)
 
-</div>
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer&animation=twinkling"/>
-
-![Made with love](https://img.shields.io/badge/Made%20with-love%20in%20Bangladesh-a7c080?style=for-the-badge&labelColor=2d353b)
 </div>
