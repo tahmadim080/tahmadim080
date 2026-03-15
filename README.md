@@ -65,27 +65,19 @@
 
 ## GitHub Stats
 
-<!-- Stats + Languages side by side using table -->
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
 <tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b" width="100%"/>
-
+<td width="33%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b&rank_icon=github" width="100%"/>
 </td>
-<td width="50%" align="center">
-
+<td width="33%" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&hide_border=true&title_color=a7c080&text_color=d3c6aa&bg_color=2d353b" width="100%"/>
-
+</td>
+<td width="33%" align="center">
+<img src="https://streak-stats.demolab.com?user=tahmadim080&hide_border=true&background=2d353b&ring=a7c080&fire=e69875&currStreakLabel=a7c080&sideLabels=83c092&dates=7a8478&stroke=475258&currStreakNum=d3c6aa&sideNums=d3c6aa" width="100%"/>
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tahmadim080&hide_border=true&background=2d353b&ring=a7c080&fire=e69875&currStreakLabel=a7c080&sideLabels=83c092&dates=7a8478&stroke=475258&currStreakNum=d3c6aa&sideNums=d3c6aa)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
