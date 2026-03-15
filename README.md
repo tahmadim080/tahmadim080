@@ -14,18 +14,27 @@
 
 ---
 
-<!-- ABOUT ME -->
-## 👾 About Me
+## 👾 whoami
 
+<div align="center">
+
+<!-- ANIMATED TERMINAL SVG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1&pause=99999&color=50FA7B&multiline=true&repeat=false&width=680&height=280&lines=%E2%9D%AF+fahim%40pop-os+~+%24+cat+.%2Fabout.yaml;+;++Name++++++:+Md.+Tanvir+Rahman+Fahim;++Location+:+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;++Study++++:+BSc+CSE+%40+Daffodil+International+University;++OS+++++++:+Pop!_OS+24.04+LTS+%2B+COSMIC+DE;++Shell++++:+fish+%F0%9F%90%9F;++Linux++++:+Since+2019+%C2%B7+80%2B+distros+explored;++Editor+++:+nvim;++Loves++++:+Open+Source+Software+%E2%9D%A4%EF%B8%8F;++Playing++:+Genshin+Impact+%E2%9A%94%EF%B8%8F;++Learning+:+C%2B%2B+for+Competitive+Programming+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1&pause=99999&color=50FA7B&multiline=true&repeat=false&width=680&height=280&lines=%E2%9D%AF+fahim%40pop-os+~+%24+cat+.%2Fabout.yaml;+;++Name++++++:+Md.+Tanvir+Rahman+Fahim;++Location+:+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;++Study++++:+BSc+CSE+%40+Daffodil+International+University;++OS+++++++:+Pop!_OS+24.04+LTS+%2B+COSMIC+DE;++Shell++++:+fish+%F0%9F%90%9F;++Linux++++:+Since+2019+%C2%B7+80%2B+distros+explored;++Editor+++:+nvim;++Loves++++:+Open+Source+Software+%E2%9D%A4%EF%B8%8F;++Playing++:+Genshin+Impact+%E2%9A%94%EF%B8%8F;++Learning+:+C%2B%2B+for+Competitive+Programming+%F0%9F%8F%86">
+</picture>
+
+</div>
+
+<!-- FULL TERMINAL BLOCK (rendered in markdown) -->
 ```fish
-❯ whoami
+❯ fahim@pop-os ~ $ cat ./about.yaml
 ```
-
 ```yaml
 Name     : Md. Tanvir Rahman Fahim
 Location : Bangladesh 🇧🇩
 Study    : BSc in CSE @ Daffodil International University
-OS       : Pop!_OS 24.04 LTS + COSMIC DE
+OS       : Pop!_OS 24.04 LTS + COSMIC DE  🚀
 Shell    : fish 🐟
 Linux    : Since 2019 · 80+ distros explored
 Editor   : nvim
@@ -33,10 +42,13 @@ Loves    : Open Source Software ❤️
 Playing  : Genshin Impact ⚔️
 Learning : C++ for Competitive Programming 🏆
 ```
+```fish
+❯ fahim@pop-os ~ $ echo $STATUS
+▓▒░ Online · Building cool stuff · Always learning ░▒▓
+```
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -64,21 +76,23 @@ Learning : C++ for Competitive Programming 🏆
 
 ---
 
-<!-- SKILL BARS via progress (GitHub markdown trick) -->
 ## 📊 Skill Levels
 
-| Skill | Level | Proficiency |
-|-------|-------|-------------|
-| 🐧 Linux | `████████████████████` Expert | 96% |
-| 🤖 AI Knowledge | `███████████████████░` Master | 92% |
-| 🌐 HTML & CSS | `██████████████████░░` Advanced | 90% |
-| ⚙️ C Programming | `████████████████░░░░` Proficient | 80% |
-| 🐍 Python | `███████████████░░░░░` Proficient | 78% |
-| 🏆 C++ (CP) | `████████░░░░░░░░░░░░` Learning | 42% |
+```fish
+❯ fahim@pop-os ~ $ skill --list
+```
+
+| Skill | Proficiency | Level |
+|-------|-------------|-------|
+| 🐧 Linux | `████████████████████` | Expert · 96% |
+| 🤖 Artificial Intelligence | `███████████████████░` | Master · 92% |
+| 🌐 HTML & CSS | `██████████████████░░` | Advanced · 90% |
+| ⚙️ C Programming | `████████████████░░░░` | Proficient · 80% |
+| 🐍 Python | `███████████████░░░░░` | Proficient · 78% |
+| 🏆 C++ (CP) | `████████░░░░░░░░░░░░` | Learning · 42% |
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -96,23 +110,26 @@ Learning : C++ for Competitive Programming 🏆
 
 ---
 
-<!-- LINUX JOURNEY -->
 ## 🐧 Linux Journey
+
+```fish
+❯ fahim@pop-os ~ $ history --linux-journey
+```
 
 ```
 2019 ──────────────────────────────────────────────► Present
  │
- ├── 🟢 Started with Ubuntu (like everyone does)
- ├── 🔵 Discovered Arch — "I use Arch btw" phase
- ├── 🟣 Distro hopped through 80+ distributions
- ├── 🟡 Explored: Gentoo, NixOS, Void, Slackware, LFS...
- ├── 🔴 Tried everything from Tiny Core to Bedrock
- └── 🚀 Currently: Pop!_OS 24.04 + COSMIC DE + fish shell
-         └── Stability + beauty + OSS = perfect combo ❤️
+ ├── 🟢  Started with Ubuntu · "this is so cool"
+ ├── 🔵  Discovered Arch · entered "btw i use arch" era
+ ├── 🟣  Distro hopped through 80+ distributions
+ ├── 🟡  Explored the deep end: Gentoo · NixOS · Void · LFS
+ ├── 🔴  Tried everything from Tiny Core to Bedrock Linux
+ └── 🚀  Now on: Pop!_OS 24.04 + COSMIC DE + fish shell
+              └── Stability · Beauty · OSS = perfect combo ❤️
 ```
 
 <details>
-<summary>📦 Click to see some distros I've used (80+)</summary>
+<summary>📦 <b>Click to expand — distros I've used (80+)</b></summary>
 <br>
 
 `Arch` `Ubuntu` `Debian` `Fedora` `NixOS` `Gentoo` `Void Linux` `OpenSUSE` `Alpine`
@@ -128,25 +145,22 @@ Learning : C++ for Competitive Programming 🏆
 
 ---
 
-<!-- COMPETITIVE PROGRAMMING -->
 ## 🏆 Competitive Programming
 
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tahmadim8703)
-
-</div>
+```fish
+❯ fahim@pop-os ~ $ cat ./cp_status.cpp
+```
 
 ```cpp
-// current_status.cpp
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    string status   = "Grinding every day 🔥";
+    string handle   = "tahmadim8703";      // Codeforces
     string language = "C++ (learning)";
+    string status   = "Grinding every day 🔥";
     string goal     = "Specialist → Expert";
-    
+
     map<string, int> progress = {
         {"Arrays",  75},
         {"Sorting", 70},
@@ -154,25 +168,52 @@ int main() {
         {"Graphs",  35},
         {"DP",      28}
     };
-    
+
     cout << "Keep going, Fahim! 💪" << endl;
     return 0;
 }
 ```
 
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tahmadim8703)
+
+</div>
+
 ---
 
-<!-- OSS LOVE -->
 ## 🕊️ Open Source Lover
 
-> *"Free as in freedom."* — Richard Stallman
+```fish
+❯ fahim@pop-os ~ $ cat /etc/philosophy
+```
 
-I believe in the power of open source. Everything I learn, I try to share back with the community. The best software is built together. 🌍
+```
+"Free as in freedom."  — Richard Stallman
+
+I believe in the power of open source.
+Everything I learn, I try to share back.
+The best software is built together. 🌍
+```
 
 ---
 
-<!-- CONNECT -->
 ## 🌐 Connect With Me
+
+```fish
+❯ fahim@pop-os ~ $ cat ./socials.json
+```
+
+```json
+{
+  "facebook"   : "https://www.facebook.com/tahmadim064/",
+  "linkedin"   : "https://www.linkedin.com/in/tahmadim078/",
+  "twitter_x"  : "https://x.com/tahmadim003",
+  "github"     : "https://github.com/tahmadim080/",
+  "codeforces" : "https://codeforces.com/profile/tahmadim8703",
+  "email"      : "tahmadim001@gmail.com"
+}
+```
 
 <div align="center">
 
@@ -187,7 +228,6 @@ I believe in the power of open source. Everything I learn, I try to share back w
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 ## 🔥 Contribution Graph
 
 <div align="center">
@@ -198,14 +238,16 @@ I believe in the power of open source. Everything I learn, I try to share back w
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-**⭐ Star my repos if you find them useful!**
+```fish
+❯ fahim@pop-os ~ $ echo "Thanks for visiting! Have a great day 🐟"
+Thanks for visiting! Have a great day 🐟
+```
 
-*"The best way to predict the future is to create it."*
+**⭐ Star my repos if you find them useful!**
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20in%20Bangladesh-bd93f9?style=for-the-badge)
 
