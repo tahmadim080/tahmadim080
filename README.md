@@ -15,25 +15,21 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ❯ fahim@pop-os  ~  $  cat about.yaml                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   Name      :  Md. Tanvir Rahman Fahim                       ║
-║   Location  :  Bangladesh 🇧🇩                                ║
-║   Study     :  BSc CSE @ Daffodil International University   ║
-║   OS        :  Pop!_OS 24.04 LTS + COSMIC DE  🚀             ║
-║   Shell     :  fish 🐟                                       ║
-║   Linux     :  Since 2019 · 80+ distros explored            ║
-║   Editor    :  nvim                                          ║
-║   Loves     :  Open Source Software ❤️                       ║
-║   Playing   :  Genshin Impact ⚔️                             ║
-║   Learning  :  C++ for Competitive Programming 🏆            ║
-║                                                              ║
-║   Status    :  ▓▓▓▓▓▓▓▓▓▓░ Online · Always building 🌱      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+```yaml
+#  ❯ fahim@pop-os  ~  $  cat about.yaml
+# ------------------------------------------------
+
+Name      : Md. Tanvir Rahman Fahim
+Location  : Bangladesh 🇧🇩
+Study     : BSc CSE @ Daffodil International University
+OS        : Pop!_OS 24.04 LTS + COSMIC DE  🚀
+Shell     : fish 🐟
+Linux     : Since 2019 · 80+ distros explored
+Editor    : nvim
+Loves     : Open Source Software ❤️
+Playing   : Genshin Impact ⚔️
+Learning  : C++ for Competitive Programming 🏆
+Status    : Online · Always building 🌱
 ```
 
 </div>
@@ -66,14 +62,15 @@
 <div align="center">
 
 ```
-❯ fahim@pop-os ~ $ skill --show-all
-
-  🐧  Linux            ████████████████████  96%  Expert
-  🤖  AI Knowledge     ███████████████████░  92%  Master
-  🌐  HTML & CSS       ██████████████████░░  90%  Advanced
-  ⚙️   C Programming   ████████████████░░░░  80%  Proficient
-  🐍  Python           ███████████████░░░░░  78%  Proficient
-  🏆  C++ (CP)         ████████░░░░░░░░░░░░  42%  Learning
+  ❯ fahim@pop-os ~ $ skill --show-all
+  ┌─────────────────────────────────────────────────────┐
+  │ 🐧 Linux          ████████████████████  96%  Expert │
+  │ 🤖 AI Knowledge   ███████████████████░  92%  Master │
+  │ 🌐 HTML & CSS     ██████████████████░░  90%  Advanc │
+  │ ⚙️  C Programming  ████████████████░░░░  80%  Profic │
+  │ 🐍 Python         ███████████████░░░░░  78%  Profic │
+  │ 🏆 C++ (CP)       ████████░░░░░░░░░░░░  42%  Learn  │
+  └─────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -97,50 +94,6 @@
 
 ---
 
-## 🐍 Snake eating my contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-snake-dark.svg"/>
-</picture>
-
-</div>
-
-> **Setup the snake** — add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
-> <details>
-> <summary>📋 Click to copy the workflow</summary>
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: tahmadim080
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
->
-> </details>
-
----
-
 ## 🔥 Contribution Graph
 
 <div align="center">
@@ -154,9 +107,9 @@
 ## 🐧 Linux Journey
 
 ```
-❯ fahim@pop-os ~ $ history | grep linux-journey
+  ❯ fahim@pop-os ~ $ history | grep linux-journey
 
-  2019  ──────────────────────────────────────────► Present
+  2019 ──────────────────────────────────────────► Present
    │
    ├── 🟢  Started with Ubuntu · "this is so cool"
    ├── 🔵  Discovered Arch · entered btw-i-use-arch era
@@ -193,17 +146,16 @@
 using namespace std;
 
 int main() {
-    // [ Codeforces Profile ]
-    string handle   = "tahmadim8703";
-    string language = "C++ (learning hard)";
+    string handle   = "tahmadim8703";       // Codeforces
+    string language = "C++ (learning)";
     string goal     = "Specialist → Expert 🎯";
 
     map<string, int> progress = {
-        {"Arrays",  75},  // ███████░░░
-        {"Sorting", 70},  // ███████░░░
-        {"Greedy",  55},  // █████░░░░░
-        {"Graphs",  35},  // ███░░░░░░░
-        {"DP",      28},  // ██░░░░░░░░
+        {"Arrays",  75},   // ███████░░░
+        {"Sorting", 70},   // ███████░░░
+        {"Greedy",  55},   // █████░░░░░
+        {"Graphs",  35},   // ███░░░░░░░
+        {"DP",      28},   // ██░░░░░░░░
     };
 
     cout << "Grinding every day. Keep going! 💪" << endl;
@@ -222,7 +174,7 @@ int main() {
 ## 🕊️ Open Source Lover
 
 ```
-❯ fahim@pop-os ~ $ cat /etc/philosophy
+  ❯ fahim@pop-os ~ $ cat /etc/philosophy
 
   "Free as in freedom."  — Richard Stallman
 
@@ -238,8 +190,7 @@ int main() {
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3)](https://www.facebook.com/tahmadim064/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092)
-](https://www.linkedin.com/in/tahmadim078/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092)](https://www.linkedin.com/in/tahmadim078/)
 [![X](https://img.shields.io/badge/X-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa)](https://x.com/tahmadim003)
 [![GitHub](https://img.shields.io/badge/GitHub-2d353b?style=for-the-badge&logo=github&logoColor=a7c080)](https://github.com/tahmadim080/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f)](https://codeforces.com/profile/tahmadim8703)
@@ -254,8 +205,8 @@ int main() {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer&animation=twinkling"/>
 
 ```
-❯ fahim@pop-os ~ $ echo "Thanks for visiting! Stay curious 🌿"
-  Thanks for visiting! Stay curious 🌿
+  ❯ fahim@pop-os ~ $ echo "Thanks for visiting! Stay curious 🌿"
+    Thanks for visiting! Stay curious 🌿
 ```
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20in%20Bangladesh-a7c080?style=for-the-badge&labelColor=2d353b)
