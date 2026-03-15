@@ -10,10 +10,25 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" width="500" align="left"/>
-<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" width="500" align="right"/>
+<!-- whoami + skills side by side using table -->
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" align="center">
 
-<br clear="both"/>
+**whoami**
+
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/terminal.svg" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+**Skill Levels**
+
+<img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/main/skills.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,13 +65,21 @@
 
 ## GitHub Stats
 
-<div align="center">
+<!-- Stats + Languages side by side using table -->
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td width="50%" align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&hide_border=true&title_color=a7c080&text_color=d3c6aa&bg_color=2d353b"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&hide_border=true&title_color=a7c080&icon_color=83c092&text_color=d3c6aa&bg_color=2d353b" width="100%"/>
 
-</div>
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&hide_border=true&title_color=a7c080&text_color=d3c6aa&bg_color=2d353b" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -70,12 +93,13 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tahmadim080-2d353b?style=for-the-badge&logo=github&logoColor=a7c080)](https://github.com/tahmadim080/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tahmadim078-2d353b?style=for-the-badge&logo=linkedin&logoColor=83c092)](https://www.linkedin.com/in/tahmadim078/)
-[![Facebook](https://img.shields.io/badge/Facebook-tahmadim064-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3)](https://www.facebook.com/tahmadim064/)
-[![X](https://img.shields.io/badge/X-tahmadim003-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa)](https://x.com/tahmadim003)
-[![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f)](https://codeforces.com/profile/tahmadim8703)
-[![Gmail](https://img.shields.io/badge/Gmail-tahmadim001-2d353b?style=for-the-badge&logo=gmail&logoColor=e67e80)](mailto:tahmadim001@gmail.com)
+<!-- LinkedIn: using labelColor to force logo visibility -->
+[![](https://img.shields.io/badge/-GitHub-2d353b?style=for-the-badge&logo=github&logoColor=a7c080&label=tahmadim080)](https://github.com/tahmadim080/)
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=tahmadim078)](https://www.linkedin.com/in/tahmadim078/)
+[![](https://img.shields.io/badge/-Facebook-2d353b?style=for-the-badge&logo=facebook&logoColor=7fbbb3&label=tahmadim064)](https://www.facebook.com/tahmadim064/)
+[![](https://img.shields.io/badge/-X-2d353b?style=for-the-badge&logo=x&logoColor=d3c6aa&label=tahmadim003)](https://x.com/tahmadim003)
+[![](https://img.shields.io/badge/-Codeforces-2d353b?style=for-the-badge&logo=codeforces&logoColor=dbbc7f&label=tahmadim8703)](https://codeforces.com/profile/tahmadim8703)
+[![](https://img.shields.io/badge/-Gmail-2d353b?style=for-the-badge&logo=gmail&logoColor=e67e80&label=tahmadim001)](mailto:tahmadim001@gmail.com)
 
 </div>
 
