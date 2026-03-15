@@ -36,18 +36,18 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-2d353b?style=for-the-badge&logo=c&logoColor=a7c080)
-![Python](https://img.shields.io/badge/Python-2d353b?style=for-the-badge&logo=python&logoColor=83c092)
-![C++](https://img.shields.io/badge/C++-2d353b?style=for-the-badge&logo=cplusplus&logoColor=7fbbb3)
-![HTML5](https://img.shields.io/badge/HTML5-2d353b?style=for-the-badge&logo=html5&logoColor=e69875)
-![CSS3](https://img.shields.io/badge/CSS3-2d353b?style=for-the-badge&logo=css3&logoColor=7fbbb3)
-![Linux](https://img.shields.io/badge/Linux-2d353b?style=for-the-badge&logo=linux&logoColor=dbbc7f)
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-2d353b?style=for-the-badge&logo=popos&logoColor=83c092)
-![Neovim](https://img.shields.io/badge/Neovim-2d353b?style=for-the-badge&logo=neovim&logoColor=a7c080)
-![Git](https://img.shields.io/badge/Git-2d353b?style=for-the-badge&logo=git&logoColor=e67e80)
-![Fish](https://img.shields.io/badge/Fish_Shell-2d353b?style=for-the-badge&logo=gnu-bash&logoColor=7fbbb3)
-![AI](https://img.shields.io/badge/AI-2d353b?style=for-the-badge&logo=openai&logoColor=a7c080)
-![OSS](https://img.shields.io/badge/Open_Source-2d353b?style=for-the-badge&logo=opensourceinitiative&logoColor=83c092)
+![C](https://img.shields.io/badge/C-3c3836?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3c3836?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-3c3836?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-3c3836?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-3c3836?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-3c3836?style=for-the-badge)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-3c3836?style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim-3c3836?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-3c3836?style=for-the-badge)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-3c3836?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-3c3836?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-3c3836?style=for-the-badge)
 
 </div>
 
@@ -145,6 +145,6 @@ int main() {
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-2d353b?style=for-the-badge&logo=codeforces&logoColor=7fbbb3)](https://codeforces.com/profile/tahmadim8703)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tahmadim8703-3c3836?style=for-the-badge)](https://codeforces.com/profile/tahmadim8703)
 
 </div>
