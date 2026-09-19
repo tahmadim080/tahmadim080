@@ -1,9 +1,7 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=0d1117&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn">
-  </picture>
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn#gh-dark-mode-only" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=0d1117&animation=fadeIn#gh-light-mode-only" width="100%" />
 
   <h3>🎓 CSE Student @ Daffodil International University | 🐧 Linux & Problem Solving Enthusiast</h3>
 
@@ -51,11 +49,8 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution Snake Dark" />
+  <img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contribution Snake Light" />
 </div>
 
 ---
@@ -63,25 +58,19 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=github_dark&hide_border=true&count_private=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=default&hide_border=true&count_private=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=github_dark&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=default&hide_border=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=default&hide_border=true" width="45%">
-    </picture>
-  </p>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=dark&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=default&hide_border=true">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=default&hide_border=true" width="93%">
-    </picture>
-  </p>
+  <!-- Dark Mode Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=github_dark&hide_border=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub Stats Dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only" width="45%" alt="Top Languages Dark" />
+
+  <!-- Light Mode Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub Stats Light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=default&hide_border=true#gh-light-mode-only" width="45%" alt="Top Languages Light" />
+
+  <br /><br />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=dark&hide_border=true#gh-dark-mode-only" width="93%" alt="Streak Dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=default&hide_border=true#gh-light-mode-only" width="93%" alt="Streak Light" />
 </div>
 
 ---
