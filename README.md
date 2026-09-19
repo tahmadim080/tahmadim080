@@ -1,25 +1,24 @@
-<div align="center">
-  <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn#gh-dark-mode-only" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=0d1117&animation=fadeIn#gh-light-mode-only" width="100%" />
+<p align="center">
+  ![Banner Dark](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn#gh-dark-mode-only)
+  ![Banner Light](https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=0d1117&animation=fadeIn#gh-light-mode-only)
+</p>
 
-  <h3>🎓 CSE Student @ Daffodil International University | 🐧 Linux & Problem Solving Enthusiast</h3>
+<h3 align="center">🎓 CSE Student @ Daffodil International University | 🐧 Linux & Problem Solving Enthusiast</h3>
 
-  <p align="center">
-    <a href="https://codeforces.com/profile/tahmadim8703">
-      <img src="https://img.shields.io/badge/Codeforces-445FA5?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
-    </a>
-    <a href="https://www.linkedin.com/in/tahmadim078">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:tahmadim001@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.facebook.com/tahmadim064/">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://codeforces.com/profile/tahmadim8703">
+    <img src="https://img.shields.io/badge/Codeforces-445FA5?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.linkedin.com/in/tahmadim078">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tahmadim001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/tahmadim064/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 ---
 
@@ -48,30 +47,26 @@
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution Snake Dark" />
-  <img src="https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contribution Snake Light" />
-</div>
+<p align="center">
+  ![Snake Dark](https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake Light](https://raw.githubusercontent.com/tahmadim080/tahmadim080/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+</p>
 
 ---
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <!-- Dark Mode Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=github_dark&hide_border=true&count_private=true#gh-dark-mode-only" width="48%" alt="GitHub Stats Dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only" width="45%" alt="Top Languages Dark" />
+<p align="center">
+  ![Stats Dark](https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=github_dark&hide_border=true&count_private=true#gh-dark-mode-only)
+  ![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only)
+  ![Stats Light](https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only)
+  ![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=default&hide_border=true#gh-light-mode-only)
+</p>
 
-  <!-- Light Mode Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" width="48%" alt="GitHub Stats Light" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=default&hide_border=true#gh-light-mode-only" width="45%" alt="Top Languages Light" />
-
-  <br /><br />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=dark&hide_border=true#gh-dark-mode-only" width="93%" alt="Streak Dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=default&hide_border=true#gh-light-mode-only" width="93%" alt="Streak Light" />
-</div>
+<p align="center">
+  ![Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=dark&hide_border=true#gh-dark-mode-only)
+  ![Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=default&hide_border=true#gh-light-mode-only)
+</p>
 
 ---
 
