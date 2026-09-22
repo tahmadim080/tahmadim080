@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=CSE+Student+%40+DIU;Linux+%26+Distro+Hopper;Competitive+Programmer;Java+%26+OOP+Explorer" alt="Typing SVG" />
   </a>
 
-  <br />
+  <br /><br />
 
   <!-- Social Links -->
   <p align="center">
@@ -35,7 +35,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Animated Coding GIF" />
+  <img src="https://media.giphy.com/media/uVqJA3SUJ4MJu4L94d/giphy.gif" width="380" alt="Animated Coding GIF" />
 </p>
 
 - 🎓 **Education:** 2nd Year CSE Student at **Daffodil International University**.
@@ -48,9 +48,18 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,linux,bash,html,css,git,vscode,vim&theme=dark" alt="Skill Icons" />
-  </a>
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="48" height="48" />
 </p>
 
 ---
@@ -58,9 +67,11 @@
 ### 🖥️ Linux Distros I've Hopped & Used
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,fedora,arch,mint,nixos&theme=dark" alt="Linux Distro Icons" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="Fedora" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linuxmint/linuxmint-original-wordmark.svg" alt="Linux Mint" width="55" height="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="NixOS" width="55" height="55" />
 </p>
 
 <p align="left">
