@@ -1,55 +1,66 @@
 <div align="center">
-  <!-- Banner -->
+  <!-- Dynamic Waving Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=0d1117&animation=fadeIn">
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=f6f8fa&height=200&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=0d1117&animation=fadeIn">
+    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Md%20Tanvir%20Rahman%20Fahim&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
   </picture>
 
-  <h3>🎓 CSE Student @ Daffodil International University | 🐧 Linux & Problem Solving Enthusiast</h3>
+  <!-- Typing Animated Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=CSE+Student+%40+DIU;Linux+%26+Open+Source+Enthusiast;Competitive+Programmer;Java+%26+OOP+Explorer" alt="Typing SVG" />
+  </a>
 
-  <p>
+  <br />
+
+  <!-- Animated Social Badges -->
+  <p align="center">
     <a href="https://codeforces.com/profile/tahmadim8703">
-      <img src="https://img.shields.io/badge/Codeforces-445FA5?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+      <img src="https://img.shields.io/badge/Codeforces-445FA5?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
     </a>
     <a href="https://www.linkedin.com/in/tahmadim078">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:tahmadim001@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.facebook.com/tahmadim064/">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist/Dark/3D.png" width="28" /> About Me
 
-- 🎓 Currently in my **2nd Year** studying **Computer Science and Engineering** at **Daffodil International University**.
-- 💻 Passionate about low-level programming, Linux environments, and algorithm analysis.
-- 🎯 Actively practicing competitive programming on **Codeforces**.
-- 🌱 Currently expanding my core concepts in **Java** and object-oriented programming.
+<p align="left">
+  <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="300" />
+  
+  <ul>
+    <li>🎓 <b>Education:</b> Currently in my 2nd Year studying Computer Science & Engineering at <b>Daffodil International University</b>.</li>
+    <li>🐧 <b>Environment:</b> Passionate about low-level programming, Linux environments, and algorithm analysis.</li>
+    <li>🎯 <b>Problem Solving:</b> Actively practicing competitive programming on <b>Codeforces</b>.</li>
+    <li>🌱 <b>Current Focus:</b> Expanding core concepts in <b>Java</b> and Object-Oriented Programming (OOP).</li>
+    <li>🚀 <b>Goal:</b> Building robust systems and mastering data structures & algorithms.</li>
+  </ul>
+</p>
+
+<br />
 
 ---
 
-### 🛠️ Languages & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,linux,bash,html,css,git,github,vscode,vim&theme=dark" alt="My Skills" />
+  </a>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> Contribution Snake
 
 <div align="center">
   <picture>
@@ -61,29 +72,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=dark&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=default&hide_border=true&count_private=true">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=tahmadim080&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=default&hide_border=true">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmadim080&layout=compact&theme=dark&hide_border=true" height="150" />
-  </picture>
-  <br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=default&hide_border=true">
-    <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmadim080&theme=dark&hide_border=true" width="90%" />
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 </div>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
